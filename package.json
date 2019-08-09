@@ -1,11 +1,8 @@
 {
-  "name": "vue",
+  "name": "@mariobuikhuizen/vue-compiler-addon",
   "version": "2.6.10",
   "description": "Reactive, component-oriented view layer for modern web interfaces.",
-  "main": "dist/vue.runtime.common.js",
-  "module": "dist/vue.runtime.esm.js",
-  "unpkg": "dist/vue.js",
-  "jsdelivr": "dist/vue.js",
+  "module": "dist/vue-compiler-addon.esm.js",
   "typings": "types/index.d.ts",
   "files": [
     "src",
@@ -55,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue.git"
+    "url": "git+https://github.com/mariobuikhuizen/vue-compiler-addon.git"
   },
   "keywords": [
     "vue"
